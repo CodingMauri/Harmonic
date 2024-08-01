@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+  font-family: "klender";
+  src: url(./assets/fonts/klender-demo/klender.otf);
+}
